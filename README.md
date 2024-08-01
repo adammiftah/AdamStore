@@ -1,1 +1,1 @@
-<AdamStore
+AdamStore
